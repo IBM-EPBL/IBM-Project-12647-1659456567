@@ -3,4 +3,4 @@ University Admit Eligibility Predictor
 
 Team ID: PNT2022TMID00293
 
-Team Members: Joel Antony,Karthigayan R,Kowshik kumar B,Mahesh Ratnar BS.
+Team Members:Joel Antony,Karthigayan R,Kowshik kumar B,Mahesh Ratnar BS.
